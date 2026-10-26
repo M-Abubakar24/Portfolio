@@ -531,8 +531,8 @@ const [activeTheme, setActiveTheme] = useState("ocean");
 
               <a
                 className="button-secondary"
-                href="/resume.pdf"
-                download="Muhammad-Abubakar-Resume.pdf"
+                href="/Resume.pdf"
+                download="Resume.pdf"
               >
                 Download PDF <ArrowRight size={17} />
               </a>
